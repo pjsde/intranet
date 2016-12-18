@@ -17,3 +17,8 @@ msgstr ""
 #: views/users_groups.php:91
 msgid "Introduza o nome"
 msgstr "Introduza o nome:"
+
+#: 
+msgid "btn_add"
+msgstr "Adicionar"
+
